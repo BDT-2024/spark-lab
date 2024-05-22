@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+data/
+data_ex1/
+venv/
+.venv
+venv*
+*.csv/
+*.parquet/
+*.orc/
